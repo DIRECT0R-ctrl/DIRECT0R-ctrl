@@ -1,0 +1,28 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Ileriayo/github-contribution-snake-action@main
+        with:
+          github_user: DIRECT0R-ctrl
+          output: github-contribution-grid-snake.svg
+
+      - name: Commit SVG
+        run: |
+          git config --local user.email "DominatVortex@proton.me"
+          git config --local user.name "The Director"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake"
+          git push
+
