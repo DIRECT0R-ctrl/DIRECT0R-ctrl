@@ -29,7 +29,7 @@
 ---
 
 ### 🐍 The Commit Snake
-![snake gif](https://raw.githubusercontent.com/DIRECTOR-ctrl/DIRECTOR-ctrl/main/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/DIRECT0R-ctrl/DIRECTOR-ctrl/main/github-contribution-grid-snake.svg)
 
 
 ---
