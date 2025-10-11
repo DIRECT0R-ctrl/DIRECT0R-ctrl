@@ -1,7 +1,7 @@
 # 👋 Yo! I’m Aymane — The Director 🎬  
 🌍 From Morocco 🇲🇦 | 🧠 Building my mind, my brand, and my code.  
 🔥 Passionate about **AI, psychology, and low-level programming**  
-💼 Currently learning at **1337** and creating tools that combine technology and self-mastery.  
+💼 Currently learning at **YouCode** and creating tools that combine technology and self-mastery.  
 
 ---
 
