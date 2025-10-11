@@ -23,13 +23,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Aymane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIRECTOR-ctrl&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIRECTOR-ctrl&layout=compact&theme=radical)
+![Aymane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIRECT0R-ctrl&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIRECT0R-ctrl&layout=compact&theme=radical)
 
 ---
 
 ### 🐍 The Commit Snake
-![snake gif](https://github.com/DIRECTOR-ctrl/DIRECTOR-ctrl/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DIRECTOR-ctrl/DIRECT0R-ctrl/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
